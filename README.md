@@ -30,6 +30,32 @@ This repository is dedicated to the practical aspects of AI (Artificial Intellig
 
 ---
 
+## 📂 Repository Structure
+
+Dive into the **315330-AMA** repo where you’ll find hands-on practical notebooks and projects for mastering AI and ML algorithms!
+
+
+   
+      📁 315330-AMA/
+      ├── 📂 Practical or Manual/
+      │   ├── 📓 01st - Installation of given tools.ipynb
+      │   ├── 📓 02nd - Breadth-First Search.ipynb
+      │   ├── 📓 03rd - Depth-First Search.ipynb
+      │   ├── 📓 05th A* Algorithm.ipynb
+      │   ├── 📓 06th - Bayes Theorem.ipynb
+      │   ├── 📓 09th Train Test Split.ipynb
+      │   ├── 📓 10th Email spam filtering.ipynb
+      │   ├── 📓 11th Decision Tree.ipynb
+      │   ├── 📓 12th KMeans.ipynb
+      │   ├── 📓 13th Cross Validation.ipynb
+      │   ├── 📓 14th Simple Linear Regression.ipynb
+      │   ├── 📓 15th Multiple Linear Regression.ipynb
+      │   └── 📓 16th Confusion Matrix.ipynb
+      ├── 📂 Projects/
+      │   └── 📄 readme.md
+      └── 📄 README.md
+
+
 ## 🚀 Getting Started
 
 ### 🔧 Prerequisites
